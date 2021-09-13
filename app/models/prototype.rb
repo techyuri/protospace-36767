@@ -1,1 +1,2 @@
-
+class Prototype < ApplicationRecord
+end
